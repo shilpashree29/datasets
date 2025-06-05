@@ -1,2 +1,2 @@
 # datasets
-this repository contains datasets for practice
+This repository contains datasets for practice
